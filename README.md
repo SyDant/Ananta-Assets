@@ -2,9 +2,7 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.ibb.co.com/xXgKw97/output.gif"  />
-</div>
+![](https://github.com/SyDant/Ananta-Assets/blob/eac771157fbc580ec70aa44fcba4c2ad0fd80dcc/output.gif?raw=true)
 
 ###
 
